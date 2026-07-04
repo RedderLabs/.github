@@ -16,6 +16,6 @@ deployment — with **privacy built in from the first commit**.
 - **Your data is yours** — self-hosting and data sovereignty, no backdoors.
 
 ### Connect
-🔗 [redderlabs.com](https://redderlabs.com) · 🐦 [@redderlabs](https://x.com/redderlabs) · 💼 [LinkedIn](https://www.linkedin.com/in/julianrodriguezjimenez/) · ✉️ [redderlabs@proton.me](mailto:redderlabs@proton.me)
+🔗 [redderlabs.com](https://redderlabs.com) · 🐦 [@redderlabs](https://x.com/redderlabs) · 💼 [LinkedIn](https://www.linkedin.com/in/julianrodriguezjimenez/) · ✉️ [contacto@redderlabs.com](mailto:contacto@redderlabs.com)
 
 🔑 **PGP** · `2B63 7AFB D3A7 F341 A0F9 BE9A 4342 C4BB 6C0F 6B9D`
